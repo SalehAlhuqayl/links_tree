@@ -1,0 +1,72 @@
+{
+  "profile": {
+    "name": "Saleh Alhuqayl",
+    "title": "Data Scientist ",
+    "bio": "Seeker of knowledge. Interested in economics and technology.",
+    "image": "https://via.placeholder.com/150"
+  },
+  "links": [
+    {
+      "title": "Portfolio",
+      "description": "",
+      "url": "https://portfolio.alhuqayl.com/",
+      "icon": "portfolio",
+      "active": true,
+      "analytics": true
+    },
+
+    {
+      "title": "LinkedIn",
+      "description": "",
+      "url": "https://linkedin.com/in/Salehalhuqayl",
+      "icon": "publication",
+      "active": true,
+      "analytics": true
+    },
+
+    {
+      "title": "X (Twitter)",
+      "description": "",
+      "url": "https://x.com/SalehAlhuqayl",
+      "icon": "twitter",
+      "active": true,
+      "analytics": true
+    },
+    
+    {
+      "title": "Blog",
+      "description": "",
+      "url": "https://blog.alhuqyal.com",
+      "icon": "blog",
+      "active": true,
+      "analytics": true
+    },
+
+    {
+      "title": "GitHub",
+      "description": "",
+      "url": "https://github.com/salehalhuqayl",
+      "icon": "github",
+      "active": true,
+      "analytics": true
+    },
+    {
+      "title": "Resume / CV",
+      "description": "View my professional experience and skills",
+      "url": "https://portfolio.alhuqayl.com/SalehAlhuqayl_CV_EN.pdf",
+      "icon": "resume",
+      "active": true,
+      "analytics": true
+    },
+
+    {
+      "title": "Email Me",
+      "description": "Get in touch for opportunities or collaboration",
+      "url": "mailto:Saleh@alhuqayl.com",
+      "icon": "email",
+      "active": true,
+      "analytics": true
+    }
+  ]
+}
+
