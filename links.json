@@ -12,7 +12,7 @@
       "url": "https://portfolio.alhuqayl.com/",
       "icon": "portfolio",
       "active": true,
-      "analytics": true
+      "analytics": true 
     },
 
     {
@@ -36,7 +36,7 @@
     {
       "title": "Blog",
       "description": "",
-      "url": "https://blog.alhuqyal.com",
+      "url": "https://blog.alhuqayl.com/",
       "icon": "blog",
       "active": true,
       "analytics": true
