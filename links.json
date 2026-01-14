@@ -51,15 +51,6 @@
       "analytics": true
     },
     {
-      "title": "Resume / CV",
-      "description": "View my professional experience and skills",
-      "url": "https://portfolio.alhuqayl.com/SalehAlhuqayl_CV_EN.pdf",
-      "icon": "resume",
-      "active": false,
-      "analytics": true
-    },
-
-    {
       "title": "Email Me",
       "description": "Get in touch for opportunities or collaboration",
       "url": "mailto:Saleh@alhuqayl.com",
