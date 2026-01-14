@@ -55,7 +55,7 @@
       "description": "View my professional experience and skills",
       "url": "https://portfolio.alhuqayl.com/SalehAlhuqayl_CV_EN.pdf",
       "icon": "resume",
-      "active": true,
+      "active": false,
       "analytics": true
     },
 
